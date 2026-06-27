@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://chim-mai-recipe.vercel.app/sitemap.xml
+Sitemap: https://chim-mai.vercel.app/sitemap.xml
