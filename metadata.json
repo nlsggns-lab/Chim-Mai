@@ -1,0 +1,6 @@
+{
+  "name": "TasteOrigin",
+  "description": "A beautiful Food Recipes platform featuring premium designs, an intuitive filter system, bilingual support (English/Thai), and a custom student-friendly Dorm Mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
